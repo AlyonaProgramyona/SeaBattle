@@ -8,4 +8,6 @@ win.configure(bg='#87CEFA')
 logo = PhotoImage(file='icon.png')
 win.iconphoto(False, logo)
 
+print('ima fuckin gay')
+
 win.mainloop()
