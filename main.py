@@ -9,5 +9,6 @@ logo = PhotoImage(file='icon.png')
 win.iconphoto(False, logo)
 
 print('ima fuckin gay')
+print('ima gay too')
 
 win.mainloop()
